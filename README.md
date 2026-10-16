@@ -20,8 +20,7 @@ The dataset contains information about:
 - Fertilizer usage
 - Pesticide usage
 - Average temperature
-- Maximum temperature
-- Minimum temperature
+- Minimum and maximum temperature
 - Crop yield
 
 ## Problem Statement
